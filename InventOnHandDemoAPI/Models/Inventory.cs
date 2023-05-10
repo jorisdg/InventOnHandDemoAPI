@@ -41,11 +41,11 @@
         new InventOnHand() {ItemId = "1", City = "Issaquah", numberInStock= 0, Name = "Pumped Water Controller", CategoryId = "PCB Assembly", Price = 45.9900, Description = "Water pump controller for combination boiler"},
         new InventOnHand() {ItemId = "1", City = "Everett", numberInStock= 0, Name = "Pumped Water Controller", CategoryId = "PCB Assembly", Price = 45.9900, Description = "Water pump controller for combination boiler"},
 
-        new InventOnHand() {ItemId = "2", City = "Seattle", numberInStock= 4, Name = "3.5 W / S Heater", CategoryId = "Heat Exchanger", Price = 125.5000, Description = "Small heat exchanger for domestic boiler"},
+        new InventOnHand() {ItemId = "2", City = "Seattle", numberInStock= 3, Name = "3.5 W / S Heater", CategoryId = "Heat Exchanger", Price = 125.5000, Description = "Small heat exchanger for domestic boiler"},
         new InventOnHand() {ItemId = "2", City = "Redmond", numberInStock= 1, Name = "3.5 W / S Heater", CategoryId = "Heat Exchanger", Price = 125.5000, Description = "Small heat exchanger for domestic boiler"},
         new InventOnHand() {ItemId = "2", City = "Tacoma", numberInStock= 0, Name = "3.5 W / S Heater", CategoryId = "Heat Exchanger", Price = 125.5000, Description = "Small heat exchanger for domestic boiler"},
         new InventOnHand() {ItemId = "2", City = "Issaquah", numberInStock= 4, Name = "3.5 W / S Heater", CategoryId = "Heat Exchanger", Price = 125.5000, Description = "Small heat exchanger for domestic boiler"},
-        new InventOnHand() {ItemId = "2", City = "Everett", numberInStock= 4, Name = "3.5 W / S Heater", CategoryId = "Heat Exchanger", Price = 125.5000, Description = "Small heat exchanger for domestic boiler"},
+        new InventOnHand() {ItemId = "2", City = "Everett", numberInStock= 8, Name = "3.5 W / S Heater", CategoryId = "Heat Exchanger", Price = 125.5000, Description = "Small heat exchanger for domestic boiler"},
 
         new InventOnHand() {ItemId = "3", City = "Seattle", numberInStock= 7, Name = "Inlet Valve", CategoryId = "Valve", Price = 120.2000, Description = "Water inlet valve with one - way operation"},
         new InventOnHand() {ItemId = "3", City = "Redmond", numberInStock= 0, Name = "Inlet Valve", CategoryId = "Valve", Price = 120.2000, Description = "Water inlet valve with one - way operation"},
