@@ -19,7 +19,7 @@ app.MapGet("/Warehouse", () =>
     return InventoryDB.GetWarehouses();
 
 })
-.WithName("GetItems")
+.WithName("GetWarehouses")
 .WithOpenApi();
 
 app.MapGet("/InventOnHand", () =>
